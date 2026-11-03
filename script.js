@@ -14,7 +14,7 @@
      del número: todos los enlaces y el formulario salen de aquí.
      Si queda vacío, el botón y el envío se ocultan solos.
      --------------------------------------------------------------- */
-  const WHATSAPP_NUMERO = '522224232930';
+  const WHATSAPP_NUMERO = '522227664645';
   const MENSAJE_BASE = 'Hola, vi la página del taller Giorgio Vasari y me gustaría platicar sobre un mueble.';
 
   /* ---------- Utilidades ---------- */
